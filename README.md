@@ -12,7 +12,9 @@
 
 <p>3. Run the notebook for analysis</p>
 
-  
+<h2>Project Screenshots:</h2>
+
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1746621399/Screenshot_from_2025-05-07_18-05-54_fbasnx.png" alt="project-screenshot" width="700" height="400/">  
   
 <h2>💻 Built with</h2>
 
